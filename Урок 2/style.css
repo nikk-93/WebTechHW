@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+
+* {
+  margin: 0.5rem;
+  padding: 0.1rem;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Play", sans-serif;
+  font-weight: 400;
+  height: 100vh;
+  color: #000;
+  align-items: center;
+  justify-content: center;
+}
